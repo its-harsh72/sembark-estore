@@ -4,15 +4,16 @@ This is a simple and responsive e-commerce web app built using **React**, **Type
 It allows users to browse products, check details, and manage their cart with a clean and minimal interface.  
 The data is fetched live from the **Fake Store API**.
 
----
 
-## 🔗 GitHub Repository
 
-URL : [https://github.com/its-harsh72/sembark-estore]
+##   GitHub Repository
+
+Github URL : [https://github.com/its-harsh72/sembark-estore]
+
 Deployment Link: [https://sembark-estore.vercel.app/]
----
 
-## ⚙️ Setup & Run Instructions
+
+##   Setup & Run Instructions
 
 Follow these steps to run the project locally:
 
