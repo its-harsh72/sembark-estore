@@ -10,7 +10,7 @@ const Navbar: React.FC = () => {
     <nav className="bg-white border-b border-gray-200 px-6 py-3 flex justify-between items-center">
       {/* Logo - redirects to home */}
       <Link to="/" className="text-lg font-semibold text-blue-600">
-        🛍️ Store
+        🛍️ Sembark  Store
       </Link>
 
       <div className="flex items-center gap-5 text-sm font-medium">
